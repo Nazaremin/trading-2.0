@@ -1,7 +1,5 @@
 """
 Модуль интеграции с брокерскими API
-Автор: Manus AI (Алгопрограммист)
-
 Поддерживаемые брокеры:
 - MetaTrader 5 (Forex/CFD)
 - Interactive Brokers (Stocks/Forex/Options)
