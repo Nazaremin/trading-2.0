@@ -1,7 +1,5 @@
 """
 Интегрированная алгоритмическая торговая система
-Автор: Manus AI (Алгопрограммист)
-
 Объединяет все компоненты:
 - Брокерские API (MT5, IB, Binance)
 - Машинное обучение и оптимизация
@@ -23,7 +21,7 @@ from abc import ABC, abstractmethod
 import pandas as pd
 import numpy as np
 
-# Импорт наших модулей
+# Импорт  модулей
 try:
     from broker_api_integration import (
         BrokerAPI, MetaTrader5API, InteractiveBrokersAPI, BinanceAPI,
